@@ -1,13 +1,6 @@
 ﻿
 # **TrackEase: Automatic Attendance System Using Face Recognition**  
 
-[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/downloads/release/python-390/)  
-[![Flask](https://img.shields.io/badge/Backend-Flask-lightblue)](https://flask.palletsprojects.com/)  
-[![HTML](https://img.shields.io/badge/Frontend-HTML-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![Jinja](https://img.shields.io/badge/Templates-Jinja2-blue)](https://jinja.palletsprojects.com/)  
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)](https://www.mongodb.com/)  
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)  
-
 ---
 
 ## **Project Description**  
